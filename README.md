@@ -1,5 +1,6 @@
 # Duolingo-User-Segmentation
-Duolingo User Personas – Data-Driven Segmentation
+Data-driven segmentation for building Duolingo user personas
+
 ## Project Overview
 
 This project explores Duolingo’s user base by combining survey data (demographics, motivations) with app usage data (lessons completed, streaks, crowns, subscriptions).
